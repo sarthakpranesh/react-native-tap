@@ -1,0 +1,32 @@
+{
+  "name": "react-native-tap",
+  "version": "1.0.0",
+  "description": "Different tap components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthakpranesh/react-native-tap.git"
+  },
+  "author": "Sarthak Pranesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarthakpranesh/react-native-tap/issues"
+  },
+  "homepage": "https://github.com/sarthakpranesh/react-native-tap#readme",
+  "keywords": [
+    "react-native",
+    "react-native-components",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "tap",
+    "tap-components"
+  ],
+  "dependencies": {
+    "metro-react-native-babel-preset": "^0.62.0"
+  }
+}
