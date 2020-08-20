@@ -55,8 +55,8 @@ Instructions, make sure `expo-cli` is installed
 <br />
 
 ## Documentation
+MultiTap component
 
-1. MultiTap component
 |Name   |Description    |Default    |Type |
 |---    |---            |---        |---  |
 |onSingleTap    |Function called on a single tap on component    | () => {}    |Func   |
