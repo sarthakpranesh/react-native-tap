@@ -1,6 +1,6 @@
 {
   "name": "react-native-tap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Components for detecting different number of Taps and their implementation with common use cases",
   "main": "index.js",
   "scripts": {
